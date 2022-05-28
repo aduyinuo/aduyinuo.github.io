@@ -1,6 +1,6 @@
 ---
 title: "Towards Autonomous Cyber Defense: Predictions from a cognitive model"
-collection: publications
+collection: Conference
 # permalink: /publication/2009-10-01-paper-title-number-1
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: Atlanta, Georgia, October 10 - 14, 2022
