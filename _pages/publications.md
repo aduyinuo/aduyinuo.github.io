@@ -17,25 +17,41 @@ author_profile: true
 
 ## Journal
 **Effectiveness of Deploying Honeypots in Different Network Topologies**
-*Palvi Aggarwal, Yinuo Du, Kuldeep Singh, Shashank Uttrani, Varun Dutt, Cleotilde Gonzalez*
-*JISA, under review*
+
+*Palvi Aggarwal, **Yinuo Du**, Kuldeep Singh, Shashank Uttrani, Varun Dutt, Cleotilde Gonzalez*
+
+*(Under Review) JISA*
 
 ## Conference
 **Towards Autonomous Cyber Defense: Predictions from a cognitive model**
-*Yinuo Du, Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez*
+
+***Yinuo Du***, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez*
+
 *HFES, Atlanta, Georgia, October 10 - 14, 2022*
 
 **A Cognitive Model of Multi-Defender Collaboration in a Cyber-Security Scenario**
-*Yinuo Du, Palvi Aggarwal, Kuldeep Singh, Cleotilde Gonzalez*
+
+***Yinuo Du***, *Palvi Aggarwal, Kuldeep Singh, Cleotilde Gonzalez*
+
 *MathPsych/ICCM, Toronto, Canada, July 23--27, 2022*
+
+**Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense**
+
+*Baptiste Prebot, ***Yinuo Du***, Xiaoli Xi, Cleotilde Gonzalez*
+
+*(Under Review) AICA, Bordeaux, France and Hybrid – May 2-3, 2022*
 
 ## Workshop
 **Learning to Play an Adaptive Cyber Deception Game** 
-*Yinuo Du, Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang*
+
+***Yinuo Du***, *Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang*
+
 *OptLearnMAS, Auckland, New Zealand, May 9--13, 2022*
 
 **Decoys in Cybersecurity: An Exploratory Study to Test the Effectiveness of 2-sided Deception**
-*Palvi Aggarwal, Yinuo Du, Kuldeep Singh, Cleotilde Gonzalez*
+
+*Palvi Aggarwal, **Yinuo Du**, Kuldeep Singh, Cleotilde Gonzalez*
+
 *IJCAI-ACD , Montreal, Canada, August 21--23, 2021*
 
 
