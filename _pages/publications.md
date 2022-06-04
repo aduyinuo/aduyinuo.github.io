@@ -16,24 +16,18 @@ author_profile: true
 {% endfor %} -->
 
 ## Journal
-<span style="color:#cc002b;">**Effectiveness of Deploying Honeypots in Different Network Topologies**</span><br />   
-<span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Shashank Uttrani, Varun Dutt, Cleotilde Gonzalez*   *(Under Review) JISA*
+<span style="color:#cc002b;">**Effectiveness of Deploying Honeypots in Different Network Topologies,**</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Shashank Uttrani, Varun Dutt, Cleotilde Gonzalez*   *(Under Review) JISA*
 
 ## Conference
-<span style="color:#cc002b;">**Towards Autonomous Cyber Defense: Predictions from a cognitive model**</span><br />   
-<span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HFES, Atlanta, Georgia, October 10 - 14, 2022*</span>
+<span style="color:#cc002b;">**Towards Autonomous Cyber Defense: Predictions from a cognitive model,**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HFES, Atlanta, Georgia, October 10 - 14, 2022*</span>
 
-<span style="color:#cc002b;">**A Cognitive Model of Multi-Defender Collaboration in a Cyber-Security Scenario**</span><br />   
-<span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Palvi Aggarwal, Kuldeep Singh, Cleotilde Gonzalez,*   *MathPsych/ICCM, Toronto, Canada, July 23--27, 2022*</span>
+<span style="color:#cc002b;">**A Cognitive Model of Multi-Defender Collaboration in a Cyber-Security Scenario,**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Palvi Aggarwal, Kuldeep Singh, Cleotilde Gonzalez,*   *MathPsych/ICCM, Toronto, Canada, July 23--27, 2022*</span>
 
-<span style="color:#cc002b;">**Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense**</span><br />   
-<span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*   *(Under Review) AICA, Bordeaux, France and Hybrid – May 2-3, 2022*</span>
+<span style="color:#cc002b;">**Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense,**</span>   <span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*   *(Under Review) AICA, Bordeaux, France and Hybrid – May 2-3, 2022*</span>
 
 ## Workshop
-<span style="color:#cc002b;">**Learning to Play an Adaptive Cyber Deception Game**</span>   *<u>Yinuo Du</u>*,<br /> 
-<span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*   *OptLearnMAS, Auckland, New Zealand, May 9--13, 2022*</span>
+<span style="color:#cc002b;">**Learning to Play an Adaptive Cyber Deception Game,**</span>   *<u>Yinuo Du</u>*, <span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*   *OptLearnMAS, Auckland, New Zealand, May 9--13, 2022*</span>
 
-<span style="color:#cc002b;">**Decoys in Cybersecurity: An Exploratory Study to Test the Effectiveness of 2-sided Deception**</span><br />   
-<span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*   *IJCAI-ACD , Montreal, Canada, August 21--23, 2021*</span>
+<span style="color:#cc002b;">**Decoys in Cybersecurity: An Exploratory Study to Test the Effectiveness of 2-sided Deception,**</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*   *IJCAI-ACD , Montreal, Canada, August 21--23, 2021*</span>
 
 
