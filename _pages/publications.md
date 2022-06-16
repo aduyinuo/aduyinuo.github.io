@@ -27,7 +27,7 @@ author_profile: true
 
 <span style="color:#cc002b;">**(Under Review) A Cyber-War Between Bots: Human-Like Attackers are More Challenging for Defenders than Deterministic Attackers**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HICSS, Maui, Hawaii, Jan 3 - 6, 2023,*</span>
 
-<span style="color:#cc002b;">**Modeling Attackers' Decisions in Cyber-Deception Scenarios,**</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*   *HICSS, Maui, Hawaii, Jan 3 - 6, 2023,*</span>
+<span style="color:#cc002b;">**(Under Review) Modeling Attackers' Decisions in Cyber-Deception Scenarios,**</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*   *HICSS, Maui, Hawaii, Jan 3 - 6, 2023,*</span>
 
 ## Workshop
 <span style="color:#cc002b;">**Learning to Play an Adaptive Cyber Deception Game,**</span>   *<u>Yinuo Du</u>*, <span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*   *OptLearnMAS, Auckland, New Zealand, May 9--13, 2022*</span>
