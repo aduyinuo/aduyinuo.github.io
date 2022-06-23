@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Institute of Software Research at Carnegie Mellon University, where I am co-advised by [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/) and [Fei Fang](https://feifang.info/). My current projects involve designing multi-agent models of cooperation for defense in cybersecurity contexts. <a href="https://drive.google.com/drive/u/0/folders/1FHxcTwolrS7XvYNSuJKHNPDPB9OBVpdL?ths=true" download><span>CV</span></a>
+I am a Ph.D. student in the Institute of Software Research at Carnegie Mellon University, where I am co-advised by [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/) and [Fei Fang](https://feifang.info/). My current projects involve designing multi-agent models of cooperation for defense in cybersecurity contexts. <a href="https://github.com/aduyinuo/aduyinuo.github.io/blob/main/Resumes/YinuoDuResume_Academic.pdf" download><span>CV</span></a>
 
 ### Education
 * B.E. in Software Engineering, Xi'an Jiaotong University, 2019
