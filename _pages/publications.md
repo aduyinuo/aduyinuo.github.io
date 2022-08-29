@@ -31,9 +31,8 @@ using Interactive Cyber-Defense Games**</span>   <span style="color:#4d4d4d;">*B
 <span style="color:#cc002b;">**(Conditionally Accepted) A Cyber-War Between Bots: Human-Like Attackers are More Challenging for Defenders than Deterministic Attackers**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HICSS, Maui, Hawaii, Jan 3 - 6, 2023*</span>
 
 
-
 ## Workshop
-<span style="color:#cc002b;">**Learning to Play an Adaptive Cyber Deception Game,**</span>   *<u>Yinuo Du</u>*, <span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*   *OptLearnMAS, Auckland, New Zealand, May 9--13, 2022*</span>
+<span style="color:#cc002b;">**Learning to Play an Adaptive Cyber Deception Game,**</span>   *<u>Yinuo Du</u>*, <span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*   *AMAAS-OptLearnMAS, Auckland, New Zealand, May 9--13, 2022*</span>
 
 <span style="color:#cc002b;">**Decoys in Cybersecurity: An Exploratory Study to Test the Effectiveness of 2-sided Deception,**</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*   *IJCAI-ACD , Montreal, Canada, August 21--23, 2021*</span>
 
