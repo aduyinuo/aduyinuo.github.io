@@ -26,9 +26,9 @@ using Interactive Cyber-Defense Games**</span>   <span style="color:#4d4d4d;">*B
 
 <span style="color:#cc002b;">**A Cognitive Model of Multi-Defender Collaboration in a Cyber-Security Scenario,**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Palvi Aggarwal, Kuldeep Singh, Cleotilde Gonzalez,*   *MathPsych/ICCM, Toronto, Canada, July 23--27, 2022*</span>
 
-<span style="color:#cc002b;">**(Under Review) Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense,**</span>   <span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*   *AICA, Bordeaux, France and Hybrid – May 2-3, 2022*</span>
+<span style="color:#cc002b;">**Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense,**</span>   <span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*   *AICA, Bordeaux, France and Hybrid – May 2-3, 2022*</span>
 
-<span style="color:#cc002b;">**(Conditionally Accepted) A Cyber-War Between Bots: Human-Like Attackers are More Challenging for Defenders than Deterministic Attackers**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HICSS, Maui, Hawaii, Jan 3 - 6, 2023*</span>
+<span style="color:#cc002b;">**A Cyber-War Between Bots: Human-Like Attackers are More Challenging for Defenders than Deterministic Attackers**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HICSS, Maui, Hawaii, Jan 3 - 6, 2023*</span>
 
 
 ## Workshop
