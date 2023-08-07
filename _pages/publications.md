@@ -27,6 +27,8 @@ author_profile: true
 <span style="background-color:#357ef2;color:#f5f8fc;">AICA-22</span> <span  style="color:#4d4d4d;">Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense,</span>   <span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*  </span>
 
 ## Workshop
+<span style="background-color:#357ef2;color:#f5f8fc;">AAAI-GenerativeAI Symposium-23</span> <span  style="color:#4d4d4d;">Generative Environment-Representation Instance-Based Learning: A hamster Cognitive Model,</span>   <span style="color:#4d4d4d;">*Tyler Malloy*, *<u>Yinuo Du</u>*, *Fei Fang, Cleotilde Gonzalez,*</span>
+
 <span style="background-color:#357ef2;color:#f5f8fc;">AAMAS-OptLearnMAS-22</span> <span  style="color:#4d4d4d;">Learning to Play an Adaptive Cyber Deception Game,</span>   *<u>Yinuo Du</u>*, <span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*</span>
 
 <span style="background-color:#357ef2;color:#f5f8fc;">IJCAI-ACD-21</span> <span  style="color:#4d4d4d;">Decoys in Cybersecurity: An Exploratory Study to Test the Effectiveness of 2-sided Deception,</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*</span>
