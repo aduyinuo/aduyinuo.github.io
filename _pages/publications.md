@@ -32,7 +32,7 @@ author_profile: true
 <span style="background-color:#357ef2;color:#f5f8fc;">IJCAI-ACD-21</span> <span  style="color:#4d4d4d;">Decoys in Cybersecurity: An Exploratory Study to Test the Effectiveness of 2-sided Deception,</span>   <span style="color:#4d4d4d;">*Palvi Aggarwal, <u>Yinuo Du</u>, Kuldeep Singh, Cleotilde Gonzalez,*</span>
 
 ## Book Chapters
-<span style="background-color:#357ef2;color:#f5f8fc;">Cyber Deception: Techniques, Strategies, and Human Aspects</span> <span >Diversifying Deception: Game-Theoretic Models for Two-Sided Deception and Initial Human Studies,</span>   <span style="color:#4d4d4d;">*Mohammad Sujan Miah, Palvi Aggarwal, Marcus Gutierrez, Omkar Thakoor, <u>Yinuo Du</u>, Oscar Veliz, Kuldeep Singh, Christopher Kiekintveld, Cleotilde Gonzalez, *   </span>
+<span style="background-color:#357ef2;color:#f5f8fc;">Cyber Deception: Techniques, Strategies, and Human Aspects</span> <span >Diversifying Deception: Game-Theoretic Models for Two-Sided Deception and Initial Human Studies,</span>   <span style="color:#4d4d4d;">*Mohammad Sujan Miah, Palvi Aggarwal, Marcus Gutierrez, Omkar Thakoor, <u>Yinuo Du</u>, Oscar Veliz, Kuldeep Singh, Christopher Kiekintveld, Cleotilde Gonzalez,*   </span>
 
 ## Journal
 <span >(Under Review) Learning About Emulated Adversaries from Human Defenders
