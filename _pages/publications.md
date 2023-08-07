@@ -24,7 +24,7 @@ author_profile: true
 
 <span style="background-color:#357ef2;color:#f5f8fc;">MathPsych/ICCM-22</span> <span  style="color:#4d4d4d;">A Cognitive Model of Multi-Defender Collaboration in a Cyber-Security Scenario,</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Palvi Aggarwal, Kuldeep Singh, Cleotilde Gonzalez,* </span>
 
-<span style="background-color:#357ef2;color:#f5f8fc;">AICA-22</span> <span  style="color:#4d4d4d;">Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense,</span>   <span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*   *AICA, Bordeaux, France and Hybrid – May 2-3, 2022*</span>
+<span style="background-color:#357ef2;color:#f5f8fc;">AICA-22</span> <span  style="color:#4d4d4d;">Cognitive Models of Dynamic Decisions in Autonomous Intelligent Cyber Defense,</span>   <span style="color:#4d4d4d;">*Baptiste Prebot, <u>Yinuo Du</u>, Xiaoli Xi, Cleotilde Gonzalez,*  </span>
 
 ## Workshop
 <span style="background-color:#357ef2;color:#f5f8fc;">AAMAS-OptLearnMAS-22</span> <span  style="color:#4d4d4d;">Learning to Play an Adaptive Cyber Deception Game,</span>   *<u>Yinuo Du</u>*, <span style="color:#4d4d4d;">*Zimeng Song, Stephanie Milani, Cleotilde Gonzalez, Fei Fang,*</span>
