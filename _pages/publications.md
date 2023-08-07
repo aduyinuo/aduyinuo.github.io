@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 ## Conference
-<span style="background-color:#357ef2;color:#f5f8fc;">HCOMP-23</span> <span  style="color:#4d4d4d;">Accounting for Transfer of Learning using Human Behavior Models,</span>   <span style="color:#4d4d4d;">*Tyler Malloy*, *<u>Yinuo Du</u>*, *Fei Fang, Cleotilde Gonzalez,*</span>
+<span style="background-color:#357ef2;color:#f5f8fc;">HCOMP-23 (28%)</span> <span  style="color:#4d4d4d;">Accounting for Transfer of Learning using Human Behavior Models,</span>   <span style="color:#4d4d4d;">*Tyler Malloy*, *<u>Yinuo Du</u>*, *Fei Fang, Cleotilde Gonzalez,*</span>
 
-<span style="background-color:#357ef2;color:#f5f8fc;">HICSS-23</span> <span  style="color:#4d4d4d;">A Cyber-War Between Bots: Human-Like Attackers are More Challenging for Defenders than Deterministic Attackers</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,* </span>
+<span style="background-color:#357ef2;color:#f5f8fc;">HICSS-23 (47%)</span> <span  style="color:#4d4d4d;">A Cyber-War Between Bots: Human-Like Attackers are More Challenging for Defenders than Deterministic Attackers</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,* </span>
 
 <span style="background-color:#357ef2;color:#f5f8fc;">HFES-22</span> <span style="color:#4d4d4d;">Towards Autonomous Cyber Defense: Predictions from a cognitive model,</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,* </span>
 
