@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Conference
-<span style="color:#cc002b;">**Accounting for Transfer of Learning using Human Behavior Models,**</span>   <span style="color:#4d4d4d;">Tyler Malloy, *<u>Yinuo Du</u>*, *Fei Fang, Cleotilde Gonzalez,* *HCOMP, Delft, Netherlands, November 6–9, 2023*</span>
+<span style="color:#cc002b;">**Accounting for Transfer of Learning using Human Behavior Models,**</span>   <span style="color:#4d4d4d;">*Tyler Malloy*, *<u>Yinuo Du</u>*, *Fei Fang, Cleotilde Gonzalez,* *AAAI-HCOMP, Delft, Netherlands, November 6–9, 2023*</span>
 
 <span style="color:#cc002b;">**Towards Autonomous Cyber Defense: Predictions from a cognitive model,**</span>   <span style="color:#4d4d4d;">*<u>Yinuo Du</u>*, *Baptiste Prébot, Xiaoli Xi, Cleotilde Gonzalez,*   *HFES, Atlanta, Georgia, October 10 - 14, 2022*</span>
 
