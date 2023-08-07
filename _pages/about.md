@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Institute of Software Research at Carnegie Mellon University, where I am co-advised by [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/) and [Fei Fang](https://feifang.info/). My current projects involve designing multi-agent models of cooperation for defense in cybersecurity contexts. <a href="https://github.com/aduyinuo/aduyinuo.github.io/blob/main/Resumes/YinuoDuResume_Academic.pdf" download><span>CV</span></a>
+I am a Ph.D. student in the Software and Societal Systems Department at Carnegie Mellon University, where I am co-advised by [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/) and [Fei Fang](https://feifang.info/). <a href="https://github.com/aduyinuo/aduyinuo.github.io/blob/main/Resumes/YinuoDuResume_Academic.pdf" download><span>CV</span></a>
 
 ### Education
 * B.E. in Software Engineering, Xi'an Jiaotong University, 2019
@@ -16,6 +16,10 @@ I am a Ph.D. student in the Institute of Software Research at Carnegie Mellon Un
 * Ph.D in Societal Computing, Carnegie Mellon University, 2026 (expected)
 
 ### Work experience
+* Summer 2023: Visting Student
+  * University of Washington
+  * Supervisor: [Prashanth Rajivan](https://ise.washington.edu/people/faculty/rajivan)
+
 * Summer 2020: Research Assistant
   * DDMLab @ Carnegie Mellon University
   * Supervisor: [Cleotilde Gonzalez](https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/), [Palvi Aggarwal](https://hb2504.utep.edu/Home/Profile?username=paggarwal)
