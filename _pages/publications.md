@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Conference
-<span style="background-color:#357ef2;color:#f5f8fc;">HICSS-24</span> <span  style="color:#4d4d4d;">Evidence of Cognitive Biases in Cyber Attackers from An Empirical Study</span>   <span style="color:#4d4d4d;">, *Palvi Aggarwal, Saeefa Rubaiyet Nowmi*, *<u>Yinuo Du</u>* *Cleotilde Gonzalez,* </span>
+<span style="background-color:#357ef2;color:#f5f8fc;">HICSS-24</span> <span  style="color:#4d4d4d;">Evidence of Cognitive Biases in Cyber Attackers from An Empirical Study</span>   <span style="color:#4d4d4d;">, *Palvi Aggarwal, Saeefa Rubaiyet Nowmi*, *<u>Yinuo Du</u>*, *Cleotilde Gonzalez,* </span>
 
 <span style="background-color:#357ef2;color:#f5f8fc;">HCOMP-23 (28%)</span> <span  style="color:#4d4d4d;">Accounting for Transfer of Learning using Human Behavior Models,</span>   <span style="color:#4d4d4d;">*Tyler Malloy*, *<u>Yinuo Du</u>*, *Fei Fang, Cleotilde Gonzalez,*</span>
 
