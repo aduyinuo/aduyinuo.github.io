@@ -39,8 +39,8 @@ author_profile: true
 <span style="background-color:#357ef2;color:#f5f8fc;">Cyber Deception: Techniques, Strategies, and Human Aspects</span> <span >Diversifying Deception: Game-Theoretic Models for Two-Sided Deception and Initial Human Studies,</span>   <span style="color:#4d4d4d;">*Mohammad Sujan Miah, Palvi Aggarwal, Marcus Gutierrez, Omkar Thakoor, <u>Yinuo Du</u>, Oscar Veliz, Kuldeep Singh, Christopher Kiekintveld, Cleotilde Gonzalez,*   </span>
 
 ## Journal
-<span >(Under Review) Learning About Emulated Adversaries from Human Defenders
-using Interactive Cyber-Defense Games</span>   <span style="color:#4d4d4d;">*Baptiste Prébot, <u>Yinuo Du</u>, Cleotilde Gonzalez,*   *CHB*</span>
+<span style="background-color:#357ef2;color:#f5f8fc;">Journal of Cybersecurity</span> <span >Learning About Emulated Adversaries from Human Defenders
+using Interactive Cyber-Defense Games</span>   <span style="color:#4d4d4d;">*Baptiste Prébot, <u>Yinuo Du</u>, Cleotilde Gonzalez,* </span>
 
 
 
