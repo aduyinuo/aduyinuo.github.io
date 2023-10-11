@@ -14,6 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+## Journal
+<span style="background-color:#357ef2;color:#f5f8fc;">Journal of Cybersecurity (IF 3.9) </span> <span >Learning About Emulated Adversaries from Human Defenders
+using Interactive Cyber-Defense Games</span>   <span style="color:#4d4d4d;">*Baptiste Prébot, <u>Yinuo Du</u>, Cleotilde Gonzalez,* </span>
 
 ## Conference
 <span style="background-color:#357ef2;color:#f5f8fc;">HICSS-24</span> <span  style="color:#4d4d4d;">Evidence of Cognitive Biases in Cyber Attackers from An Empirical Study,</span>   <span style="color:#4d4d4d;"> *Palvi Aggarwal, Saeefa Rubaiyet Nowmi*, *<u>Yinuo Du</u>*, *Cleotilde Gonzalez,* </span>
@@ -38,9 +41,7 @@ author_profile: true
 ## Book Chapters
 <span style="background-color:#357ef2;color:#f5f8fc;">Cyber Deception: Techniques, Strategies, and Human Aspects</span> <span >Diversifying Deception: Game-Theoretic Models for Two-Sided Deception and Initial Human Studies,</span>   <span style="color:#4d4d4d;">*Mohammad Sujan Miah, Palvi Aggarwal, Marcus Gutierrez, Omkar Thakoor, <u>Yinuo Du</u>, Oscar Veliz, Kuldeep Singh, Christopher Kiekintveld, Cleotilde Gonzalez,*   </span>
 
-## Journal
-<span style="background-color:#357ef2;color:#f5f8fc;">Journal of Cybersecurity</span> <span >Learning About Emulated Adversaries from Human Defenders
-using Interactive Cyber-Defense Games</span>   <span style="color:#4d4d4d;">*Baptiste Prébot, <u>Yinuo Du</u>, Cleotilde Gonzalez,* </span>
+
 
 
 
